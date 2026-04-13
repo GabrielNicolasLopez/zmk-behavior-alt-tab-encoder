@@ -19,6 +19,7 @@
 #include <zmk/behavior_queue.h>
 #include <zmk/keymap.h>
 #include <zmk/sensors.h>
+#include <zmk/virtual_key_position.h>
 
 LOG_MODULE_DECLARE(zmk, CONFIG_ZMK_LOG_LEVEL);
 
